@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.container {
+  background-color: #150b3e;
+  border-radius: 6px;
+  padding: 20px;
+}
+.sub-container {
+  display: flex;
+}
+.logo-container {
+  border-radius: 25%;
+  background-color: #c7d2fe;
+  padding: 10px;
+  margin-right:10px;
+}
+.heading {
+  color: #7c3aed;
+  font-size: 20px;
+}
+.headin2{
+  color:#d4d2db;
+
+}
